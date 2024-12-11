@@ -1,5 +1,5 @@
 <template>
-  <div class="page page2">
+  <div class="page2">
     <h1>这是第二页内容</h1>
   </div>
 </template>
@@ -16,6 +16,5 @@ export default {
   justify-content: center;
   align-items: center;
   height: 100%;
-  background: #e0ffff;
 }
 </style>
