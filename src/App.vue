@@ -82,7 +82,7 @@ export default {
 }
 
 .snap-page {
-  height: 100%; /* 每个页面占满视口 */
+  height: 100%; /* 每个页面占满父容器 */
   scroll-snap-align: start; /* 页面对齐到顶部 */
   display: flex;
   justify-content: center;
